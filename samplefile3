@@ -1,0 +1,4 @@
+This option only allows fast-forward merges, meaning
+ if your local branch has not diverged from the remote branch, 
+it will simply move to the latest commit of the remot
+e branch without creating a merge commit.
